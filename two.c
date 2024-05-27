@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("two two two two 22222222222 \n");
+    printf("two two two two 1111111\n");
     return 0;
 }
